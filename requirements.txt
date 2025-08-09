@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+yfinance
+joblib
+matplotlib
+seaborn
+tensorflow>=2.10  # optional for LSTM
+streamlit
+fastapi
+uvicorn
+optuna
+mlflow
